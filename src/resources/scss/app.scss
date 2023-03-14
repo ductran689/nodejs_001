@@ -1,0 +1,12 @@
+@import "variables";
+
+h1 {
+  color: $red-cl;
+}
+h2 {
+  color: blue;
+  border: 1px solid $aqua-cl;
+}
+h3 {
+  background-color: aqua;
+}
